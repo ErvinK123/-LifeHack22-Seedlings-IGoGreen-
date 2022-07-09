@@ -20,7 +20,7 @@
 }
 
 .home {
-  background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));  
+  background-color: #D9F8C4;  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,6 +39,7 @@
   font-family: 'Nunito', sans-serif;
   width: 100vw;
   height: 100vh;
+
 }
 
 .contact-us {
@@ -51,11 +52,8 @@
 }
 
 .sign-up {
-  background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #000;
   font-size: 100px;
 }
+
 
