@@ -30,28 +30,28 @@ function Navbar() {
 
   return (
     <>
-      <nav className = "navbar">
-        <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+      <nav className='navbar2'>
+        <Link to='/' className='navbar-logo2' onClick={closeMobileMenu}>
           IGoGreen
           {/* <i class='fab fa-firstdraft' /> */}
         </Link>
-        <div className='menu-icon' onClick={handleClick}>
-          <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
+        <div className='menu-icon2' onClick={handleClick}>
+          <i className={click ? 'fas fa-times2' : 'fas fa-bars2'} />
         </div>
-        <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-          <li className='nav-item'>
+        <ul className={click ? 'nav-menu2 active2' : 'nav-menu2'}>
+          <li className='nav-item2'>
             <Link
               to='/products'
-              className='nav-links'
+              className='nav-links2'
               onClick={closeMobileMenu}
             >
               Rewards
             </Link>
           </li>
-          <li className='nav-item'>
+          <li className='nav-item2'>
             <Link
               to='/contact-us'
-              className='nav-links'
+              className='nav-links2'
               onClick={closeMobileMenu}
             >
               About us
@@ -60,7 +60,7 @@ function Navbar() {
           <li>
             <Link
               to='/sign-up'
-              className='nav-links-mobile'
+              className='nav-links-mobile2'
               onClick={closeMobileMenu}
             >
               Sign Up
