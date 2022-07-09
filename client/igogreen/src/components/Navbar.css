@@ -8,10 +8,14 @@
 .navbar2 {
   background: green;
   height: 80px;
+  width: 100vw;
   display: flex;
   justify-content: center !important;
   align-items: center !important;
   font-size: 1.2rem;
+  position:sticky;
+  top:0;
+  margin-bottom: 70px;
 }
 
 .navbar-logo2 {
