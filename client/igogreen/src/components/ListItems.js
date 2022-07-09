@@ -98,10 +98,10 @@ const ListItems = () => {
             </th>
           </thead>
           <tbody>
-            <td style={{ fontSize: "30px" }}>{metal}</td>
-            <td style={{ fontSize: "30px" }}>{plastic}</td>
-            <td style={{ fontSize: "30px" }}>{paper}</td>
             <td style={{ fontSize: "30px" }}>{glass}</td>
+            <td style={{ fontSize: "30px" }}>{metal}</td>
+            <td style={{ fontSize: "30px" }}>{paper}</td>
+            <td style={{ fontSize: "30px" }}>{plastic}</td>
           </tbody>
         </table>
         <div className="submit">
