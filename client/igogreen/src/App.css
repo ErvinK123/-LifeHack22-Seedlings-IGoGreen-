@@ -20,7 +20,7 @@
 }
 
 .home {
-  background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));  
+  background-color: #D9F8C4;  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -30,12 +30,11 @@
 
 
 .products {
-  background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));
-  background-position: center;
+  /*background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));*/
+  /*background-position: center;
   background-size: fill;
-  background-repeat: no-repeat;
-  color: #000;
-  font-size: 100px;
+  background-repeat: no-repeat;*/
+  /*color: #000;*/
 }
 
 .contact-us {
@@ -48,12 +47,12 @@
 }
 
 .sign-up {
-  background-image: linear-gradient(to right, rgba(0,255,0,0.1), rgba(0,255,0,0.2));
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #000;
   font-size: 100px;
 }
+
+
+
+
 
 
