@@ -5,13 +5,17 @@
 }
 
 
-.navbar {
-  background: green;
+.navbar{
+  background: rgb(25, 184, 25);
   height: 80px;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 1.2rem;
+  position:sticky;
+  top:0;
+  margin-bottom: 70px;
 }
 
 .navbar-logo {

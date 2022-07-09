@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { Button } from './Button';
 import { Link } from 'react-router-dom';
-import './Navbar.css';
 import Dropdown from './Dropdown';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './Navbar.css';
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -29,7 +30,7 @@ function Navbar() {
 
   return (
     <>
-      <nav className='navbar'>
+      <nav className = "navbar">
         <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
           IGoGreen
           {/* <i class='fab fa-firstdraft' /> */}
