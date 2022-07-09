@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/LifeHack22_SeedLings_IGoGreen/static/css/main.011fb5d7.chunk.css",
+    "main.js": "/LifeHack22_SeedLings_IGoGreen/static/js/main.e483cc32.chunk.js",
+    "main.js.map": "/LifeHack22_SeedLings_IGoGreen/static/js/main.e483cc32.chunk.js.map",
+    "runtime-main.js": "/LifeHack22_SeedLings_IGoGreen/static/js/runtime-main.c977f80f.js",
+    "runtime-main.js.map": "/LifeHack22_SeedLings_IGoGreen/static/js/runtime-main.c977f80f.js.map",
+    "static/css/2.c1c45ef1.chunk.css": "/LifeHack22_SeedLings_IGoGreen/static/css/2.c1c45ef1.chunk.css",
+    "static/js/2.b7ebfb9d.chunk.js": "/LifeHack22_SeedLings_IGoGreen/static/js/2.b7ebfb9d.chunk.js",
+    "static/js/2.b7ebfb9d.chunk.js.map": "/LifeHack22_SeedLings_IGoGreen/static/js/2.b7ebfb9d.chunk.js.map",
+    "index.html": "/LifeHack22_SeedLings_IGoGreen/index.html",
+    "precache-manifest.cf199e460d69ce415ac11ee44017daee.js": "/LifeHack22_SeedLings_IGoGreen/precache-manifest.cf199e460d69ce415ac11ee44017daee.js",
+    "service-worker.js": "/LifeHack22_SeedLings_IGoGreen/service-worker.js",
+    "static/css/2.c1c45ef1.chunk.css.map": "/LifeHack22_SeedLings_IGoGreen/static/css/2.c1c45ef1.chunk.css.map",
+    "static/css/main.011fb5d7.chunk.css.map": "/LifeHack22_SeedLings_IGoGreen/static/css/main.011fb5d7.chunk.css.map",
+    "static/js/2.b7ebfb9d.chunk.js.LICENSE.txt": "/LifeHack22_SeedLings_IGoGreen/static/js/2.b7ebfb9d.chunk.js.LICENSE.txt",
+    "static/media/blue.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/blue.ec0ae724.jpg",
+    "static/media/donovan.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/donovan.5c12e3f2.jpg",
+    "static/media/ervin.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/ervin.0962831c.jpg",
+    "static/media/face4.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/face4.7bca4587.jpg",
+    "static/media/green.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/green.b080eb65.jpg",
+    "static/media/kok.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/kok.e05b3717.jpg",
+    "static/media/red.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/red.96dd8880.jpg",
+    "static/media/yellow.jpg": "/LifeHack22_SeedLings_IGoGreen/static/media/yellow.b2b8b8fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c977f80f.js",
+    "static/css/2.c1c45ef1.chunk.css",
+    "static/js/2.b7ebfb9d.chunk.js",
+    "static/css/main.011fb5d7.chunk.css",
+    "static/js/main.e483cc32.chunk.js"
+  ]
+}
