@@ -1,3 +1,10 @@
+.nav-links:hover {
+  background-color: #1888ff;
+  border-radius: 4px;
+  transition: all 0.2s ease-out;
+}
+
+
 .navbar {
   background: green;
   height: 80px;
@@ -44,11 +51,6 @@
   padding: 0.5rem 1rem;
 }
 
-.nav-links:hover {
-  background-color: #1888ff;
-  border-radius: 4px;
-  transition: all 0.2s ease-out;
-}
 
 .fa-bars {
   color: #fff;
