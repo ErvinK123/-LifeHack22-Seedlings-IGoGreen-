@@ -1,20 +1,24 @@
-.nav-links:hover {
+.nav-links2:hover {
   background-color: #1888ff;
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }
 
 
-.navbar {
+.navbar2 {
   background: green;
   height: 80px;
+  width: 100vw;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center !important;
+  align-items: center !important;
   font-size: 1.2rem;
+  position:sticky;
+  top:0;
+  margin-bottom: 70px;
 }
 
-.navbar-logo {
+.navbar-logo2 {
   color: #fff;
   justify-self: start;
   margin-left: 20px;
@@ -23,12 +27,12 @@
   font-size: 2rem;
 }
 
-.fa-firstdraft {
+.fa-firstdraft2 {
   margin-left: 0.5rem;
   font-size: 1.6rem;
 }
 
-.nav-menu {
+.nav-menu2 {
   display: grid;
   grid-template-columns: repeat(5, auto);
   grid-gap: 10px;
@@ -39,37 +43,37 @@
   margin-right: 2rem;
 }
 
-.nav-item {
+.nav-item2 {
   display: flex;
   align-items: center;
   height: 80px;
 }
 
-.nav-links {
+.nav-links2 {
   color: white;
   text-decoration: none;
   padding: 0.5rem 1rem;
 }
 
 
-.fa-bars {
+.fa-bars2 {
   color: #fff;
 }
 
-.nav-links-mobile {
+.nav-links-mobile2 {
   display: none;
 }
 
-.menu-icon {
+.menu-icon2 {
   display: none;
 }
 
 @media screen and (max-width: 960px) {
-  .NavbarItems {
+  .NavbarItems2 {
     position: relative;
   }
 
-  .nav-menu {
+  .nav-menu2 {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -81,7 +85,7 @@
     transition: all 0.5s ease;
   }
 
-  .nav-menu.active {
+  .nav-menu2.active2 {
     background: #232422;
     left: 0;
     opacity: 1;
@@ -89,26 +93,26 @@
     z-index: 1;
   }
 
-  .nav-links {
+  .nav-links2 {
     text-align: center;
     padding: 2rem;
     width: 100%;
     display: table;
   }
 
-  .nav-links:hover {
+  .nav-links2:hover {
     background-color: #1888ff;
     border-radius: 0;
   }
 
-  .navbar-logo {
+  .navbar-logo2 {
     position: absolute;
     top: 0;
     left: 0;
     transform: translate(25%, 50%);
   }
 
-  .menu-icon {
+  .menu-icon2 {
     display: block;
     position: absolute;
     top: 0;
@@ -118,12 +122,12 @@
     cursor: pointer;
   }
 
-  .fa-times {
+  .fa-times2 {
     color: #fff;
     font-size: 2rem;
   }
 
-  .nav-links-mobile {
+  .nav-links-mobile2 {
     display: block;
     text-align: center;
     padding: 1.5rem;
@@ -136,7 +140,7 @@
     font-size: 1.5rem;
   }
 
-  .nav-links-mobile:hover {
+  .nav-links-mobile2:hover {
     background: #fff;
     color: #1888ff;
     transition: 250ms;

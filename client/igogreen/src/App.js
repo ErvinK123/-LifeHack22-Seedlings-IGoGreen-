@@ -12,9 +12,9 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Navbar sticky = 'top'/>
       <Switch>
-        <Route path='/' exact component={Home} />
+        <Route path='/' exact component={ListItems} />
         <Route path='/products' component={Products} />
         <Route path='/contact-us' component={ContactUs} />
         <Route path='/sign-up' component={SignUp} />
