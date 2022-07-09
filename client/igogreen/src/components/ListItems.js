@@ -5,6 +5,7 @@ import blue from "../images/blue.jpg";
 import yellow from "../images/yellow.jpg";
 import green from "../images/green.jpg";
 
+document.body.style.backgroundColor = "#D9F8C4";
 const ListItems = () => {
   const [metal, setMetal] = useState(0.0);
   const [plastic, setPlastic] = useState(0.0);

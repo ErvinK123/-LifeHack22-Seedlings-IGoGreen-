@@ -1,5 +1,6 @@
 .nav-links2:hover {
   background-color: #1888ff;
+  color : white;
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }
@@ -86,7 +87,7 @@
   }
 
   .nav-menu2.active2 {
-    background: #232422;
+    background: #3f3939;
     left: 0;
     opacity: 1;
     transition: all 0.5s ease;
