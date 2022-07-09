@@ -17,4 +17,4 @@ Has a list of different partners/sponsors who offer incentives that can be excha
 Table with counter of amount recycled
 
 We have implemented a simple responsive,front end, proof-of-concept where dummy functionalities are simulated to show their purpose.
-This is our first time working with React and it was achieved in 24 hours. 
+This is our first time working with React and it was achieved in 24 hours as part of NUS lifehack 2022. 
