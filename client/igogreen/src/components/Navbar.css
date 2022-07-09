@@ -28,6 +28,10 @@
   font-size: 2rem;
 }
 
+.navbar-logo2:hover {
+  color : rgb(87, 55, 13);
+}
+
 .fa-firstdraft2 {
   margin-left: 0.5rem;
   font-size: 1.6rem;
